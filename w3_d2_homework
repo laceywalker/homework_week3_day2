@@ -33,3 +33,10 @@
 #
 # Q9. Why do we use prepared statements when performing database operations?
       # to sanitize the database and protect against sql injections aka people typing in evil code trying to hurt/destroy the database
+
+
+Look at the find_by_id and find_by_address methods in the Property class.
+
+Q10. What do they take in as their arguments?
+
+Q11. What are their return values?
